@@ -28,7 +28,7 @@ and add it to the `.env` file under the `OPENAI_API_KEY` key
 
 ### Install dependencies
 ```bash
-npm run install
+npm install
 ```
 
 ### Run project
